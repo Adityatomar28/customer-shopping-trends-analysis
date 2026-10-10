@@ -95,5 +95,5 @@ This project is licensed under the [MIT License](LICENSE) - feel free to fork, c
 ## 👤 Author
 
 **Aditya Tomar**
-- 💼 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/aditya-tomar/)
+
 - 📁 **GitHub**: [@Adityatomar28](https://github.com/Adityatomar28)
